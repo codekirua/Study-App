@@ -1,6 +1,6 @@
 # 📚 Smart Study Notes App
 
-A beautiful, intelligent note-taking and flashcard study application with auto-categorization, spaced repetition, and focus timer features.
+A note-taking and flashcard study application with auto-categorization, spaced repetition, and focus timer features.
 
 ![Study App Screenshot](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&h=400&fit=crop)
 
