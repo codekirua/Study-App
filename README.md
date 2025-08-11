@@ -1,4 +1,5 @@
 # 📚 Smart Study Notes App
+https://study-app-ashen.vercel.app/
 
 A note-taking and flashcard study application with auto-categorization, spaced repetition, and focus timer features.
 
@@ -33,7 +34,7 @@ A note-taking and flashcard study application with auto-categorization, spaced r
 
 ## 🚀 Quick Start
 
-Just open the site and test it your self.
+Just open the site and test it your self. https://study-app-ashen.vercel.app/
 
 ## 📱 Usage Guide
 
