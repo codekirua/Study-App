@@ -90,20 +90,13 @@ The flashcard system uses a modified Anki algorithm:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
 - Inspired by Anki's spaced repetition system
 - Design influenced by modern productivity apps
 - Built with love for students and lifelong learners
-
-## 📞 Support
-
-If you have any questions or run into issues:
-- Open an issue on GitHub
-- Check the documentation
-- Review the code comments for implementation details
 
 ---
 
